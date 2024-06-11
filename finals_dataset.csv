@@ -1,0 +1,81 @@
+Wages,Category,Gender,Location,Hotel,Rating,Working Hours,Weekly Tips,Tiktok_Views,Tiktok_Likes
+698,Above Minimum,Male,Manila,Conrad,Five Star,8,590,12672,1129
+646,Above Minimum,Male,Manila,Conrad,Five Star,8,532,19386,1754
+859,Above Minimum,Male,Manila,Conrad,Five Star,8,504,31796,2688
+946,Above Minimum,Male,Manila,Conrad,Five Star,8,548,33331,1005
+885,Above Minimum,Male,Manila,Conrad,Five Star,9,514,15580,3561
+825,Above Minimum,Male,Manila,Conrad,Five Star,9,503,35340,2148
+718,Above Minimum,Male,Manila,Conrad,Five Star,10,551,33441,2046
+614,Minimum,Male,Manila,Conrad,Five Star,9.2,500,38883,4187
+614,Minimum,Male,Manila,Conrad,Five Star,11,551,18450,4697
+614,Minimum,Male,Manila,Conrad,Five Star,9,590,13712,1129
+614,Minimum,Male,Manila,Conrad,Five Star,13,603,21012,2012
+614,Minimum,Male,Manila,Conrad,Five Star,14,591,15377,1478
+614,Minimum,Male,Quezon City,Richmond,Three Star,12,512,19165,1090
+881,Above Minimum,Male,Quezon City,Richmond,Three Star,12,596,13446,1214
+761,Above Minimum,Male,Quezon City,Richmond,Three Star,12,583,32888,1574
+672,Above Minimum,Male,Quezon City,Richmond,Three Star,8,529,36889,3365
+634,Above Minimum,Male,Quezon City,Richmond,Three Star,8,524,28498,1216
+902,Above Minimum,Male,Quezon City,Richmond,Three Star,9,557,24112,4227
+950,Above Minimum,Male,Quezon City,Richmond,Three Star,9,526,29285,3796
+623,Above Minimum,Male,Quezon City,Richmond,Three Star,8.5,556,34189,4236
+990,Above Minimum,Male,Quezon City,Richmond,Three Star,9.5,134,27696,4194
+690,Above Minimum,Male,Makati,Astoria,Two Star,10.2,286,31088,4879
+697,Above Minimum,Male,Makati,Astoria,Two Star,11.2,280,15572,2027
+808,Above Minimum,Male,Makati,Astoria,Two Star,11.5,525,34809,1236
+786,Above Minimum,Male,Makati,Astoria,Two Star,10.5,768,33777,4645
+947,Above Minimum,Male,Makati,Astoria,Two Star,10.5,594,31712,3301
+889,Above Minimum,Male,Makati,Astoria,Two Star,15,877,19504,3711
+800,Above Minimum,Male,Makati,Astoria,Two Star,16,386,12752,2819
+936,Above Minimum,Male,Makati,Astoria,Two Star,15,406,33000,3971
+934,Above Minimum,Male,Makati,Astoria,Two Star,14,836,38438,3846
+966,Above Minimum,Male,Makati,Astoria,Two Star,12,460,,
+992,Above Minimum,Male,Makati,Astoria,Two Star,12,646,,
+691,Above Minimum,Male,Makati,Astoria,Two Star,11,855,,
+683,Above Minimum,Male,Makati,Astoria,Two Star,10,293,,
+945,Above Minimum,Male,Pasig,Marco Polo,Five Star,10,432,,
+887,Above Minimum,Male,Pasig,Marco Polo,Five Star,12,734,,
+793,Above Minimum,Male,Pasig,Marco Polo,Five Star,12,849,,
+731,Above Minimum,Male,Pasig,Marco Polo,Five Star,13,808,,
+843,Above Minimum,Male,Pasig,Marco Polo,Five Star,13,172,,
+872,Above Minimum,Male,Pasig,Marco Polo,Five Star,14,110,,
+945,Above Minimum,Female,Manila,Conrad,Five Star,10,959,,
+955,Above Minimum,Female,Manila,Conrad,Five Star,8,765,,
+851,Above Minimum,Female,Manila,Conrad,Five Star,9,660,,
+666,Above Minimum,Female,Manila,Conrad,Five Star,9,586,,
+695,Above Minimum,Female,Manila,Conrad,Five Star,9,948,,
+899,Above Minimum,Female,Manila,Conrad,Five Star,9,469,,
+808,Above Minimum,Female,Manila,Conrad,Five Star,12,197,,
+1000,Above Minimum,Female,Manila,Conrad,Five Star,11,900,,
+865,Above Minimum,Female,Manila,Conrad,Five Star,10,173,,
+574,Below Minimum ,Female,Manila,Conrad,Five Star,9.5,202,,
+578,Below Minimum ,Female,Manila,Conrad,Five Star,10.2,321,,
+506,Below Minimum ,Female,Manila,Conrad,Five Star,11,946,,
+508,Below Minimum ,Female,Quezon City,Richmond,Three Star,11.5,312,,
+545,Below Minimum ,Female,Quezon City,Richmond,Three Star,11.5,672,,
+569,Below Minimum ,Female,Quezon City,Richmond,Three Star,10,746,,
+587,Below Minimum ,Female,Quezon City,Richmond,Three Star,10,514,,
+592,Below Minimum ,Female,Quezon City,Richmond,Three Star,10,220,,
+601,Below Minimum ,Female,Quezon City,Richmond,Three Star,10,380,,
+579,Below Minimum ,Female,Quezon City,Richmond,Three Star,10.5,630,,
+558,Below Minimum ,Female,Quezon City,Richmond,Three Star,11,472,,
+589,Below Minimum ,Female,Quezon City,Richmond,Three Star,10,931,,
+595,Below Minimum ,Female,Makati,Astoria,Two Star,12,319,,
+533,Below Minimum ,Female,Makati,Astoria,Two Star,13,542,,
+570,Below Minimum ,Female,Makati,Astoria,Two Star,18,191,,
+525,Below Minimum ,Female,Makati,Astoria,Two Star,10,483,,
+505,Below Minimum ,Female,Makati,Astoria,Two Star,9,508,,
+558,Below Minimum ,Female,Makati,Astoria,Two Star,8,587,,
+614,Minimum,Female,Makati,Astoria,Two Star,8,326,,
+614,Minimum,Female,Makati,Astoria,Two Star,8,655,,
+614,Minimum,Female,Makati,Astoria,Two Star,8,112,,
+614,Minimum,Female,Makati,Astoria,Two Star,10,541,,
+614,Minimum,Female,Makati,Astoria,Two Star,10,677,,
+614,Minimum,Female,Makati,Astoria,Two Star,20,433,,
+614,Minimum,Female,Makati,Astoria,Two Star,10,881,,
+614,Minimum,Female,Pasig,Marco Polo,Five Star,12.5,430,,
+614,Minimum,Female,Pasig,Marco Polo,Five Star,12.5,947,,
+614,Minimum,Female,Pasig,Marco Polo,Five Star,13,453,,
+614,Minimum,Female,Pasig,Marco Polo,Five Star,13,639,,
+614,Minimum,Female,Pasig,Marco Polo,Five Star,13,751,,
+614,Minimum,Female,Pasig,Marco Polo,Five Star,14,760,,
